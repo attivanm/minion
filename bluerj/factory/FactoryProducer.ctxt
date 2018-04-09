@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FactoryProducer
+comment0.text=\r\n\ \r\n
+comment1.params=choice
+comment1.target=KingdomFactory\ getFactory(java.lang.String)
+numComments=2

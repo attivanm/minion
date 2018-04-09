@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPrice()
+comment5.params=price
+comment5.target=void\ setPrice(double)
+comment6.params=
+comment6.target=java.lang.String\ getAgency()
+comment7.params=agency
+comment7.target=void\ setAgency(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getInformation()
+numComments=9
